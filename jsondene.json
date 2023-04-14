@@ -1,0 +1,18 @@
+[
+  {
+    "isim": "Ankara",
+    "lat": "39.9799346",
+    "lng": "32.6137153",
+    "protein": "Protein: 1.1 gram",
+    "yag": "Yag: 0.3 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "İstanbul",
+    "lat": "41",
+    "lng": "29",
+    "protein": "Protein: 11.3 gram",
+    "yag": "Yag: 5.8 gram",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+  }
+]
